@@ -1,6 +1,6 @@
 FROM ruby:2.7
 
-LABEL title="Jeckyll PlantUML Action"
+LABEL title="Jekyll PlantUML Action"
 LABEL version="1.0.0"
 LABEL repository="https://github.com/jp-rad/jekyll-docker"
 LABEL maintainer="jp-96 <jp-96@outlook.jp>"
